@@ -14,3 +14,6 @@
 -[EX01-06](EX01_06.ipynb)
 
 -[EX01-07](EX01_07.ipynb)
+## EX02 Web Crawler
+
+-[EX02-01](EX02_01.ipynb)
