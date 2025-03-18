@@ -22,4 +22,4 @@
 
 -[EX02-03 Yahoo 新聞儲存 Google 試算表](Ex02_03.ipynb)
 
--[EX02-04 ](Ex02_04.ipynb)
+-[EX02-04 ](EX02_04.ipynb)
