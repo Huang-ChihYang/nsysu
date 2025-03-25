@@ -25,3 +25,5 @@
 -[EX02-04 Download Pokemon Images](EX02_04.ipynb)
 
 -[EX02-05 PTT Gossiping ](EX02_05.ipynb)
+
+-[EX02-06開眼電影](EX02_06.ipynb)
