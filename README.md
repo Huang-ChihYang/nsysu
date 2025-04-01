@@ -26,4 +26,6 @@
 
 -[EX02-05 PTT Gossiping ](EX02_05.ipynb)
 
--[EX02-06開眼電影](EX02_06.ipynb)
+-[EX02-06 開眼電影](EX02_06.ipynb)
+
+-[EX02-07 KKDay](EX02_07.ipynb)
