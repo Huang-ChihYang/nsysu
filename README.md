@@ -20,7 +20,7 @@
 
 -[EX02-02 高雄紅橘線捷運車站位置查詢](EX02_02.ipynb)
 
--[EX02-03 Yahoo 新聞儲存 Google 試算表](Ex02_03.ipynb)
+-[EX02-03 Yahoo 新聞儲存 Google 試算表](EX02_03.ipynb)
 
 -[EX02-04 Download Pokemon Images](EX02_04.ipynb)
 
@@ -31,4 +31,4 @@
 -[EX02-07 KKDay](EX02_07.ipynb)
 ## EX03 Data Analysis 
 
--[EX03-01 公司薪資概況Ⅰ](EX03-01.ipynb)
+-[EX03-01 公司薪資概況Ⅰ](EX03_01.ipynb)
