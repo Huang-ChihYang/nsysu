@@ -32,3 +32,5 @@
 ## EX03 Data Analysis 
 
 -[EX03-01 公司薪資概況Ⅰ](EX03_01.ipynb)
+
+-[EX03-02 公司薪資概況Ⅱ](EX03_02.ipynb)
