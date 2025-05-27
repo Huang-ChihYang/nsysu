@@ -44,3 +44,15 @@
 -[EX03-06 出生人口數](EX03_06.ipynb)
 
 -[EX03-07 Tips](EX03_07.ipynb)
+## EX04 Machine Learning
+
+
+## EX05 Web API
+
+-[EX05-01 Echo Bot](EX05_01.ipynb)
+
+-[EX05-02 Ask Gemini](EX05_02.ipynb)
+
+-[EX05-03 Reply Multi-type Messages](EX05_03.ipynb)
+
+-[EX05-04 Reply Template Messages](EX05_04.ipynb)
