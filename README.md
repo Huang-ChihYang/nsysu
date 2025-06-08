@@ -69,5 +69,5 @@
 
 -[EX05-04 Reply Template Messages](EX05_04.ipynb)
 
--[EX05-05 Rich Menu](EX05_05.ipynb)
+
 
